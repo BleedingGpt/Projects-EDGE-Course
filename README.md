@@ -1,2 +1,2 @@
 # Projects-EDGE-Course
-Projects revolving around this code
+Projects revolving around this course
